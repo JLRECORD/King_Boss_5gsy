@@ -1,0 +1,1 @@
+[{"artista":"King Boss","foto":"https://cdn.jsdelivr.net/gh/JLRECORD/King_Boss_5gsy/kinbt.jpg","musica":"https://cdn.jsdelivr.net/gh/JLRECORD/King_Boss_5gsy/kinbt.mp3","campo1":"Pop","id":"prRml","campo2":"https://jlrecord.github.io/King_Boss_5gsy/kinbt.html","publicacion":"kin222"}]
